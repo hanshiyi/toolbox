@@ -1,0 +1,2 @@
+Pip catches UnicodeError
+	export LC_ALL="en_US.UTF-8"
