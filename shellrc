@@ -1,0 +1,8 @@
+alias ldir='ls -F -G -l %l | grep /$'
+alias less='less'
+alias lf='ls -F -l -G %l | grep ^-'
+alias lk='ls -F -l -G %l | grep ^l'
+alias ll='ls -F -l -G'
+alias ls='ls -F -G'
+alias lx='ls -F -l -G %l | grep ^-..x'
+alias ..='cd ..'
