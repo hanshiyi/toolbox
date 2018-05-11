@@ -1,4 +1,5 @@
 # Some useful tools for decorating the vim and shell
+#test`
 
 1. *shellrc* can be used for zshrc and bashrc
 2. *vimrc* is shared by the colleges in bytedance
